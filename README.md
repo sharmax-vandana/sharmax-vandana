@@ -1,7 +1,7 @@
 
 ## 👋 Hi, I'm Vandana
 
-🎓 MCA @ IGDTUW'25 | 💡 Machine Learning Enthusiast | 🤖 Open-Source Contributor  
+🎓 MCA @ IGDTUW'27 | 💡 Machine Learning Enthusiast | 🤖 Open-Source Contributor  
 🏆 2× Kaggle Expert (Notebooks + Datasets) | 🤝 GSSoC’25 Aspirant
 
 ---
