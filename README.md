@@ -19,19 +19,7 @@ I'm actively trying to learn through open-source communities like **Hugging Face
 
 ---
 
-## 🚀 Projects
 
-### 🔢 Digit Recognition (PyTorch, CNN, MNIST)  
-> Achieved >98% accuracy using CNNs with data augmentation, dropout, and LR scheduling.
-
-### 📈 Sales Forecasting (SARIMAX)  
-> Modeled trends + seasonality using SARIMAX; optimized via GridSearch, validated via cross-validation.
-
-### 😊 Facial Emotion Recognition (Flask + PyTorch)  
-> Real-time emotion detection app with VGG16 and ResNet fine-tuning.
-
-### 🧠 Image Segmentation & Object Detection App  
-> Built a Streamlit demo using Hugging Face models: DETR, Mask2Former, and OCR pipeline.
 
 ---
 
