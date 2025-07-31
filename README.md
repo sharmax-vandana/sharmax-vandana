@@ -1,4 +1,64 @@
-## Hi there 👋
+
+## 👋 Hi, I'm Vandana
+
+🎓 MCA @ IGDTUW'25 | 💡 Machine Learning Enthusiast | 🤖 Open-Source Contributor  
+🏆 2× Kaggle Expert (Notebooks + Datasets) | 🤝 GSSoC’25 Aspirant
+
+---
+
+## 👩‍💻 About Me
+
+I'm a passionate ML learner currently pursuing my Master’s in Computer Applications from IGDTUW. I specialize in hands-on machine learning projects and love exploring real-world applications of AI. My current focus lies in:
+
+- 🤖 Deep Learning (CNNs, transfer learning)
+- 📊 Time Series Forecasting (SARIMAX, EDA)
+- 🔍 Computer Vision & OCR
+- 💬 NLP & LLMs (transformers, BERT fine-tuning)
+
+I'm actively trying to learn through open-source communities like **Hugging Face** and participating in programs like **GSSoC'25** to grow as a developer and collaborator.
+
+---
+
+## 🚀 Projects
+
+### 🔢 Digit Recognition (PyTorch, CNN, MNIST)  
+> Achieved >98% accuracy using CNNs with data augmentation, dropout, and LR scheduling.
+
+### 📈 Sales Forecasting (SARIMAX)  
+> Modeled trends + seasonality using SARIMAX; optimized via GridSearch, validated via cross-validation.
+
+### 😊 Facial Emotion Recognition (Flask + PyTorch)  
+> Real-time emotion detection app with VGG16 and ResNet fine-tuning.
+
+### 🧠 Image Segmentation & Object Detection App  
+> Built a Streamlit demo using Hugging Face models: DETR, Mask2Former, and OCR pipeline.
+
+---
+
+## 🏆 Achievements
+
+- 🥇 **2× Kaggle Expert** in Notebooks and Datasets
+- 🌟 Published fine-tuned **BERT** model for banking text classification
+- 💬 Active in Hugging Face community discussions & open-source collaboration
+
+---
+
+## 🛠 Tech Stack
+
+`Python` | `PyTorch` | `Pandas` | `NumPy` | `OpenCV` | `Scikit-learn`  
+`Flask` | `Streamlit` | `Docker` | `Git` | `Linux` | `SQL` | `AWS Sagemaker`
+
+---
+
+## 📫 Let's Connect
+
+- 🔗 [LinkedIn](https://www.linkedin.com/in/your-profile) *(Add your link)*
+- 💻 [Kaggle](https://www.kaggle.com/your-profile) *(Add your link)*
+- 🧠 Always happy to collaborate on ML, research, or open-source ideas!
+
+---
+
+*Let’s build cool, impactful AI together!* 🚀
 
 <!--
 **sharmax-vandana/sharmax-vandana** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
