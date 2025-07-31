@@ -52,8 +52,8 @@ I'm actively trying to learn through open-source communities like **Hugging Face
 
 ## 📫 Let's Connect
 
-- 🔗 [LinkedIn](https://www.linkedin.com/in/your-profile) *(Add your link)*
-- 💻 [Kaggle](https://www.kaggle.com/your-profile) *(Add your link)*
+- 🔗 [LinkedIn]([https://www.linkedin.com/in/your-profile](https://www.linkedin.com/in/sharmax-vandana/)) *(Add your link)*
+- 💻 [Kaggle]([https://www.kaggle.com/your-profile](https://www.kaggle.com/vandana12911)) *(Add your link)*
 - 🧠 Always happy to collaborate on ML, research, or open-source ideas!
 
 ---
