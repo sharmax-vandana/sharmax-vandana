@@ -30,13 +30,6 @@ I'm actively trying to learn through open-source communities like **Hugging Face
 
 ---
 
-## 🛠 Tech Stack
-
-`Python` | `PyTorch` | `Pandas` | `NumPy` | `OpenCV` | `Scikit-learn`  
-`Flask` | `Streamlit` | `Docker` | `Git` | `Linux` | `SQL` | `AWS Sagemaker`
-
----
-
 ## 📫 Let's Connect
 
 - 🔗 [LinkedIn](https://www.linkedin.com/in/sharmax-vandana/)
