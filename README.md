@@ -58,7 +58,7 @@ I'm actively trying to learn through open-source communities like **Hugging Face
 
 ---
 
-*Let’s build cool, impactful AI together!* 🚀
+<!--*Let’s build cool, impactful AI together!** 🚀
 
 <!--
 **sharmax-vandana/sharmax-vandana** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
